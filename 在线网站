@@ -5,3 +5,5 @@ https://phpinfo.me/bing.php        在线旁站查询|C段查询|必应接口C�
 https://www.webscan.cc/search/      ip及旁站查询
 http://whatweb.bugscaner.com/look/       在线指纹识别,在线cms识别小插件--在线工具
 https://crt.sh/        证书透明度公开日志枚举，证书透明度（Certificate Transparency,CT）是证书授权机构（CA）的一个项目，证书授权机构CA会将他们发布的每个SSL/TLS证书发布到公共日志中。一个SSL/TLS证书通常包含域名、子域名和邮件地址，它们也经常成为攻击者非常希望获得的有用信息。因为目标是个大型站点，用这种方法找到的几率比较大。
+https://www.whois365.com        whois查询
+https://sitereport.netcraft.com/        扫描网站各种指纹信息，ip历史解析记录，ssl信息证书信息等等全面情况
